@@ -9,6 +9,7 @@ Photo Editing In React Native With Out Using Any SDK
 - Image Rotation, Cropping
 - Custom Photo Edit Screen
 - Shape and Text Overlay (2-3 Shape Maximum)
+- Camera Zoom Slider
 
 ## License
 
