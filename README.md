@@ -22,4 +22,4 @@ Photo Editing In React Native With Out Using Any SDK
 
 MIT
 
-## Under Construction
+## Under Construction, Currently Not Working On It Because react-native-camera Is Not Maintained Any More
